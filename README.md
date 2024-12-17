@@ -1,2 +1,2 @@
 # Desarrollo de Interfaces Web
-![css_icon](https://github.com/user-attachments/assets/dec4f5e5-8c0f-427f-872c-9401ef5dede6)
+![html-css-js-icons-11563328364gmstz4ubs9](https://github.com/user-attachments/assets/46668228-ef25-404a-a265-7c26bd7bcc1a)
