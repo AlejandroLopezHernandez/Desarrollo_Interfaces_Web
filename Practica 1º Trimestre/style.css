@@ -48,8 +48,11 @@ h1{
 }
 
 #parrafo3 {
+    width: 600px;
+    height: 200px;
     border: solid;
     border-width: 2px;
+    overflow:scroll;
 }
 #parrafo_lorem{
     color: darkgoldenrod;
