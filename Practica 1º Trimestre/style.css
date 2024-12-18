@@ -4,7 +4,6 @@ body {
     background-color: antiquewhite;
     background-image: url(./hex-background-networking_52683-137877.jpg);
     background-image:linear-gradient(180deg,white,grey);
-    cursor:pointer;
     overflow:scroll;
     overflow-inline: scroll;
 }
@@ -18,18 +17,26 @@ h1{
 
 .imagen_bcn {
     display: block;
-    opacity: 0.5;
+    opacity: 0.6;
 }
 
 
-#contenedor_imagen_fondo .texto_bcn {
+div.texto_bcn {
+    width: 500px;
+    height: 150px;
     position: absolute;
     top: 10px;
     left: 10%;
     color: rgb(0, 0, 0);
     text-align: center;
-    padding-top: 40%;
-    padding-right: 10%;
+    padding-top: 35%;
+    padding-right: 20%;
+    opacity: 1;
+    color:snow;
+}
+.parrafo2{
+    width: 1300px;
+    height: 150px;
 }
 
 .parrafo2::first-letter {
@@ -48,7 +55,7 @@ h1{
 }
 
 #parrafo3 {
-    width: 600px;
+    width: 700px;
     height: 200px;
     border: solid;
     border-width: 2px;
@@ -67,4 +74,5 @@ table{
     align-items: baseline;
     border-color: rgb(105, 176, 34);
     border-radius: 10%;
+    cursor:pointer;
 }
